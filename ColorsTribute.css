@@ -1,0 +1,36 @@
+html {
+    background-color: #FAEBD7;
+}
+body {
+    text-align: center;
+    font-family: Arial, Times, serif;
+    font-size: 16px;
+}
+#image {
+    width: 75%;
+    height: auto;
+    max-width: 100%;
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    }
+
+figcaption {
+    font-size: 16px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    text-align: justify;
+}
+li {
+    margin: 35px 150px;
+    font-size: 18px;
+}
+h3 {
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
